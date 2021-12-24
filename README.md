@@ -78,6 +78,8 @@
   - parallel(하나의 컴퓨터 여러 CPU) / distributed(네트워크로 연결) / clustered(여러개 PC 네트워크로 연결. storage공유) / cloud systems
   - real-time(제한시간내 수행) / embedded(자판기, 리모콘 등 운영체제 필요x시스템) / handheld systems(스마트폰 시스템)
 
+### 2. 
+
 
 
 
